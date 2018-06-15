@@ -1,0 +1,10 @@
+
+************ Portfolio Statistics 2018-01-01 13:55:00 -- 2018-06-15 06:50:00
+
+Portforlio Annual Return: 43.7%
+Portforlio Annual Std:    17.4%
+Portforlio Annual Sharpe: 2.52
+Portforlio Daily TVR:     53.48%
+Portforlio Average Daily Tot Position: 22.78%
+Portforlio Average Daily Net Position: -1.53%
+
